@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4418FAE528357468000B1069 /* UserDefaults.hafta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserDefaults.hafta.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4418FAE528357468000B1069 /* 13.hafta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 13.hafta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4418FAE828357468000B1069 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4418FAEA28357468000B1069 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4418FAEC28357468000B1069 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		4418FAE628357468000B1069 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4418FAE528357468000B1069 /* UserDefaults.hafta.app */,
+				4418FAE528357468000B1069 /* 13.hafta.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4418FAE428357468000B1069 /* UserDefaults.hafta */ = {
+		4418FAE428357468000B1069 /* 13.hafta */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4418FAF928357469000B1069 /* Build configuration list for PBXNativeTarget "UserDefaults.hafta" */;
+			buildConfigurationList = 4418FAF928357469000B1069 /* Build configuration list for PBXNativeTarget "13.hafta" */;
 			buildPhases = (
 				4418FAE128357468000B1069 /* Sources */,
 				4418FAE228357468000B1069 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = UserDefaults.hafta;
+			name = 13.hafta;
 			productName = 13.hafta;
-			productReference = 4418FAE528357468000B1069 /* UserDefaults.hafta.app */;
+			productReference = 4418FAE528357468000B1069 /* 13.hafta.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4418FAE028357468000B1069 /* Build configuration list for PBXProject "UserDefaults.hafta" */;
+			buildConfigurationList = 4418FAE028357468000B1069 /* Build configuration list for PBXProject "13.hafta" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4418FAE428357468000B1069 /* UserDefaults.hafta */,
+				4418FAE428357468000B1069 /* 13.hafta */,
 			);
 		};
 /* End PBXProject section */
@@ -349,7 +349,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4418FAE028357468000B1069 /* Build configuration list for PBXProject "UserDefaults.hafta" */ = {
+		4418FAE028357468000B1069 /* Build configuration list for PBXProject "13.hafta" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4418FAF728357469000B1069 /* Debug */,
@@ -358,7 +358,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4418FAF928357469000B1069 /* Build configuration list for PBXNativeTarget "UserDefaults.hafta" */ = {
+		4418FAF928357469000B1069 /* Build configuration list for PBXNativeTarget "13.hafta" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4418FAFA28357469000B1069 /* Debug */,
